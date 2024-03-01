@@ -7,7 +7,7 @@ python的基本数据类型有下列几种：
 数值数据类型（numeric type）：常见的数值数据可分为整数型（int）。浮点型（float）。不论是整数或浮点数都可以是任意大小
 布尔值（boolean）数据类型：也可归为数值数据类型
 文字序列类型(text sequence type):也就是字符串（string）数据类型
-序列类型（sequence type）：列表（list）和  （tuple）
+序列类型（sequence type）：列表（list）和  元组（tuple）
 对映类型（mapping type): 字典（dict）
 集合类型（set type）：集合（dict）
 '''

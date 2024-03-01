@@ -1,7 +1,6 @@
 # 设置 API Key
 import openai
-
-openai.api_key = "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"
+openai.api_key = "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"
 
 # 设置请求参数
 
